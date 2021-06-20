@@ -1,0 +1,33 @@
+Steps to go ahead with Full Stack application(MERN)
+
+1. nodejs -> For making able to run JS files on the computer
+2. expressjs -> For creating the local testing server, creating routes, controllers and for connecting the backend and frontend.
+3. mongoDB -> For making use of DB services
+4. react -> completely for frontend
+
+---------
+
+As MERN is based upon MVC architecture, we need to have Models, Views, Controllers in our application
+
+Models == Database Schema(using mongoose we can write schema for mongoDB)
+Routers == These are the URL Patterns (/sigin, /signup, /admin, /homepage etc..,)
+Controllers == What should be displayed to the user
+----------
+
+App.js is the main file for controlling all the backend. These mentioned things will be done using this file...
+1. All the neccessary file/functionality imports
+2. Connecting to the DB 
+3. Middlewares
+4. Routes
+5. PORT
+6. Starting the sever(npm start).
+
+-----------
+
+We only can add validation to a route using express-validator(check())...
+Using router.POST(), we will be able to send the data to the server
+
+Controllers can access the routes and the data which got using the API will be stored in the DB. 
+It can be our choice to add validation to the route or not.
+
+-----------
