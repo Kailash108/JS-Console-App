@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "processor": "i7",
+        "ram": "8GB",
+        "os": "Windows10",
+        "bit": "64",
+        "company": "Lenovo-Legion",
+        "price": "80000"
+    },
+    {
+        "id": 2,
+        "processor": "Snap Dragon",
+        "ram": "4GB",
+        "os": "SamsungOS",
+        "bit": "32",
+        "company": "Samsung",
+        "price": "20000"
+    },
+    {
+        "id": 3,
+        "processor": "i11",
+        "ram": "12GB",
+        "os": "Ubuntu",
+        "bit": "64",
+        "company": "Lenovo",
+        "price": "78000"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "email": "srikarkailash9@gmail.com",
+        "pass": "12345"
+    },
+    {
+        "id": 2,
+        "email": "karthik@gmail.com",
+        "pass": "54321"
+    },
+    {
+        "id": 3,
+        "email": "legion@lenovo.com",
+        "pass": "lele@12"
+    }
+]
