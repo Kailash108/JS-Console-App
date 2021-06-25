@@ -14,6 +14,6 @@ All the data is dynamic which are being served to the user from a JSON file.
 1. One can add database services(MySQL, MongoDB, Postgres) to this application in place of a JSON file.
 2. As this is a console based application, it is even easier to integrate frontend to this application.
 3. It can also work like a full stack application, if point 1 and 2 are implemented.
-4. Many more functionalities can be added to the code....
+4. And many more functionalities can be added to the code....
 
 
